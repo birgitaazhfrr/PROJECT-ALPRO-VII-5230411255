@@ -2,7 +2,7 @@
 ![thumbnail_github_VII](https://github.com/Dimaspermana293/latihan-github-baru/assets/97396687/dc632504-98e3-4fdd-a99a-79cd9accd5ec)
 ## Identitas
 - **Nama:** BIRGITA EGI AZH FARRYAH
-- **NPM:** 520411255
+- **NPM:** 5230411255
 - **Kelas:** ALGORITMA PEMROGRAMAN PRAKTIK VII
 
 ## Spesifikasi Proyek
